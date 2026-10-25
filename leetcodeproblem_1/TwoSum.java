@@ -1,3 +1,5 @@
+package leetcodeproblem_1;
+
 import java.util.Arrays;
 
 class Solution {
